@@ -1,0 +1,2 @@
+# .netcore-rabbitmq
+.net core
